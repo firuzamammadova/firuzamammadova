@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Firuza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=firuzamammadova&show_icons=true&theme=tokyonight&hide_border=true)
 <!--
 **firuzamammadova/firuzamammadova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
